@@ -9,5 +9,5 @@ print(meuIMC)
 meuIMC = "Tenho que malhar!"
 print(meuIMC)
 
-# minhaMetaImc = 8 * meuIMC
-# print(minhaMetaImc)
+minhaMetaImc = 8 * meuIMC
+print(minhaMetaImc)
