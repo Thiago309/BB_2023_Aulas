@@ -1,6 +1,6 @@
 '''import math
 
-def bhaskara(a, b, c=0):
+def bhaskara(a, b, c = 0):
     delta = b**2 - 4*a*c
     raiz1 = (-b + math.sqrt(delta)) / (2*a)
     raiz2 = (-b - math.sqrt(delta)) / (2*a)
