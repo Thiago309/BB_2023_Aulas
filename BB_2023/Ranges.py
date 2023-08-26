@@ -1,4 +1,6 @@
-# meuRange = range(5)  # Esse laço for é não inclusite, por isso conta de 0 a 4.
+# range([start], [stop], [step])
+
+# meuRange = range(5)  #Nesse caso o padrão é (0, 5, 1)Esse laço for é não inclusive, por isso conta de 0 a 4.
 # minhaLista = list(meuRange)
 # print(minhaLista)
 
@@ -7,10 +9,9 @@
 # minhaLista = list(meuRange)
 # print(minhaLista)
 
+
 '''for k in range(0, 4, 3):
     print(k)'''
-
-
 
 
 '''valor = ['zero', 'um', 'dois', 'tres', 'quatro', 'cinco']
@@ -25,8 +26,6 @@ for k in range(0, len(valor), 1):
 '''
 
 
-
-
 # Questão FGV - 2018 ADS Visto em aula
 
 '''L1 = [10, 12, 13, 14, 15, 18, 20]
@@ -37,4 +36,3 @@ for k in range(-1, -len(L1), -1):
         print (L1[k])
         
 '''
-
