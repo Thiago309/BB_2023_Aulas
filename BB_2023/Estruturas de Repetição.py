@@ -1,4 +1,5 @@
-'''situacao = ["Não passei", "Não passei", "Não passei", "Passei !!!"]
+
+situacao = ["Não passei", "Não passei", "Não passei", "Passei !!!"]
 C = 0
 
 while situacao[C] == "Não passei":
@@ -6,13 +7,14 @@ while situacao[C] == "Não passei":
     C = C + 1
     print(situacao[C])
 else:
-    print("Agora é tomar posse e gozar a vida!!!")'''
+   print("Agora é tomar posse e gozar a vida!!!")
 
-
-#   FCC - 2014 - TRT
-'''a,b = 0, 1
+'''
+   FCC - 2014 - TRT
+a, b = 0, 1
 
 while b < 10:
 
-    print (b)
-    a, b = b, a+b'''
+    print(b, end=" ")
+    a, b = b, a+b
+'''

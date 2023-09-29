@@ -12,14 +12,14 @@ for cor in cores:
     print(cor)
 '''
 # for - else
-
+'''
 for numero in range(10):
     if numero % 2 == 0:
         continue
     print(numero)
 else:
     print("Terminei. Printei somente os numeros ímpares.")
-
+'''
 '''
 palavras = "Policia Federal"
 
